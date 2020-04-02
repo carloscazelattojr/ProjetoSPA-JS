@@ -5,3 +5,6 @@ Skill:
 - Babel
 - Gulp
 - SaSS
+
+
+para executar >> gulp
